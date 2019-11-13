@@ -1,0 +1,338 @@
+ADLib_GOST-master.zip
+mysql.connector
+test.7z
+ADLib_GOST-master/ADLib_GOST-master/.gitattributes
+ADLib_GOST-master/ADLib_GOST-master/Lib_GOST.DbLib
+ADLib_GOST-master/ADLib_GOST-master/Lib_GOST.mdb
+ADLib_GOST-master/ADLib_GOST-master/Lib_IMP_GOST.DbLib
+ADLib_GOST-master/ADLib_GOST-master/Lib_IMP_GOST.mdb
+ADLib_GOST-master/ADLib_GOST-master/README.md
+ADLib_GOST-master/ADLib_GOST-master/PCB/DIP Button.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/DIP Coil.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/DIP Connector BtoB.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/DIP Connector.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/DIP Crystal.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/DIP Fuse.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/DIP LCD.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/DIP Led.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/DIP Rotary Encoder.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/DIP Switch.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/DIP TO.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD Button.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD Capacitor.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD Coil.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD Crystal.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD DO.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD Fuse.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD General.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD Leds.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD LQFP.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD QFN.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD Resistor Variable.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD Resistor.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD RUS IC.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD SMD-Series.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD SO.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD SOD.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD SOT.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD TQFP.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/PCB/SMD Transformer.PcbLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Button GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Capacitor GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Coil GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Comparators GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Connector GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Crystal GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/DC-DC Converter GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Digital Interfaces GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Diode GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Ethernet Controller GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Fuse GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/LCD GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Led GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Linear Regulator GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/MCU GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/OPA GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Optical GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Resistor GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Rotary Encoder GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Switch GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Transceiver_SoC GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Transformer GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SCH/Transistor GOST.SchLib
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/opt.lib
+ADLib_GOST-master/ADLib_GOST-master/SIM/opto.lib
+ADLib_GOST-master/ADLib_GOST-master/SIM/spice models.zip
+ADLib_GOST-master/ADLib_GOST-master/SIM/Comparator/LM393.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/DC-DC/MC33063.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/DC-DC/MC34063.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Diode/1N4007.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Diode/1N4148.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Diode/SD103A.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Diode/SS14.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Diode/SS16.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Diode/US1M.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Ferrite Bead/MPZ1608S331A_s.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Gate Driver/1368EU014_015.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Gate Driver/IR2110.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Gate Driver/IR2113.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Gate Driver/IR2127.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Isolator/ADUM4160.ibs
+ADLib_GOST-master/ADLib_GOST-master/SIM/Isolator/ADUM4160.log
+ADLib_GOST-master/ADLib_GOST-master/SIM/Logic/74HC04.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Logic/NE555 — копия.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Logic/NE555.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA/LM358.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA/LMV321.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA/MC33076.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA/NE5534.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA/OP90.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA/OP284F.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA/OP290G.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA/OPA604.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA/RC4558.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA/TL071.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA/TL081.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA/TLE2141_5V.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA/TLE2141_30V.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA/TS27x_Series.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/OPA/UA741.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Opto/4n25.txt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Opto/Avago6N136.txt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Opto/PC817.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/PWM/IR2153.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/PWM/TL494NC.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/RS485/adm1485arz.ibs
+ADLib_GOST-master/ADLib_GOST-master/SIM/RS485/adm1485arz.log
+ADLib_GOST-master/ADLib_GOST-master/SIM/SimSpec/XSourceSub.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/SimSpec/XSourceSub2.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/2N7002.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/BC847.mdl
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/BC857.mdl
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/BCX53.mdl
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/BCX56.mdl
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/BSS131.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/IRF640.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/IRF740LC.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/IRF840.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/IRFP460.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/IRG4BC20UD_C.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/IRG4BC20UD.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/IRLML6402.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/PMZB670UPE.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/PSMN1R7-60BS.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Transistor/PSMN7R0-60YS.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Vol Ref/TL431.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Vol Ref/tl431.mod
+ADLib_GOST-master/ADLib_GOST-master/SIM/Zener/BZV55C43.ckt
+ADLib_GOST-master/ADLib_GOST-master/SIM/Zener/BZX55C5V1.ckt
+ADLib_GOST-master/ADLib_GOST-master/Templates/Readme.txt
+ADLib_GOST-master/ADLib_GOST-master/Templates/BOM/BOM - Order.xlt
+ADLib_GOST-master/ADLib_GOST-master/Templates/BOM/BOM - Solder.xlt
+ADLib_GOST-master/ADLib_GOST-master/Templates/BOM/BOM - Total.xlt
+ADLib_GOST-master/ADLib_GOST-master/Templates/BOM/BOM.xlt
+ADLib_GOST-master/ADLib_GOST-master/Templates/Fonts/ГОСТ 26.008-85.TTF
+ADLib_GOST-master/ADLib_GOST-master/Templates/Fonts/GOST type A.ttf
+ADLib_GOST-master/ADLib_GOST-master/Templates/Fonts/GOST type B.ttf
+ADLib_GOST-master/ADLib_GOST-master/Templates/Fonts/GOST85.TTF
+ADLib_GOST-master/ADLib_GOST-master/Templates/Fonts/isocpeur-italic.ttf
+ADLib_GOST-master/ADLib_GOST-master/Templates/Fonts/isocpeur.ttf
+ADLib_GOST-master/ADLib_GOST-master/Templates/Fonts/DS Digital/DIGITAL.TXT
+ADLib_GOST-master/ADLib_GOST-master/Templates/Fonts/DS Digital/DS-DIGI.TTF
+ADLib_GOST-master/ADLib_GOST-master/Templates/Fonts/DS Digital/DS-DIGIB.TTF
+ADLib_GOST-master/ADLib_GOST-master/Templates/Fonts/DS Digital/DS-DIGII.TTF
+ADLib_GOST-master/ADLib_GOST-master/Templates/Fonts/DS Digital/DS-DIGIT.TTF
+ADLib_GOST-master/ADLib_GOST-master/Templates/Fonts/Приборные/ГОСТ 26.008-85.pdf
+ADLib_GOST-master/ADLib_GOST-master/Templates/Fonts/Приборные/GOST 2930-62 PART 1.ttf
+ADLib_GOST-master/ADLib_GOST-master/Templates/Fonts/Приборные/GOST85.TTF
+ADLib_GOST-master/ADLib_GOST-master/Templates/Fonts/Приборные/Symbol86.ttf
+ADLib_GOST-master/ADLib_GOST-master/Templates/SCH_1/А3 - Альбомный, Форма 1.SchDot
+ADLib_GOST-master/ADLib_GOST-master/Templates/SCH_1/А3 - Альбомный, Форма 2а.SchDot
+ADLib_GOST-master/ADLib_GOST-master/Templates/SCH_1/А4 - Книжный, Форма 1.SchDot
+ADLib_GOST-master/ADLib_GOST-master/Templates/SCH_1/А4 - Книжный, Форма 2а.SchDot
+ADLib_GOST-master/ADLib_GOST-master/Templates/SCH_5/А4 - Книжный, Форма 1.SchDot
+ADLib_GOST-master/ADLib_GOST-master/Templates/SCH_5/А4 - Книжный, Форма 2а.SchDot
+ADLib_GOST-master/ADLib_GOST-master/Templates/View/2D - PCB.config_2dsimple
+ADLib_GOST-master/ADLib_GOST-master/Templates/View/3D - PCB Black.config_3d
+ADLib_GOST-master/ADLib_GOST-master/Templates/View/3D - PCB Blue.config_3d
+ADLib_GOST-master/ADLib_GOST-master/Templates/View/3D - PCB Dark Purple.config_3d
+ADLib_GOST-master/ADLib_GOST-master/Templates/View/3D - PCB Green (Work).config_3d
+ADLib_GOST-master/ADLib_GOST-master/Templates/View/3D - PCB Green.config_3d
+ADLib_GOST-master/ADLib_GOST-master/Templates/View/3D - PCB Red.config_3d
+ADLib_GOST-master/ADLib_GOST-master/Templates/View/3D - PCB White.config_3d
+PCB_Project/PCB_Project.PrjPcb
+PCB_Project/PCB_Project.PrjPcbStructure
+PCB_Project/PCB2.PcbDoc
+PCB_Project/History/PCB_Project.~(1).PrjPcb.Zip
+PCB_Project/History/PCB_Project.~(3).PrjPcb.Zip
+PCB_Project/History/PCB_Project.~(4).PrjPcb.Zip
+PCB_Project/History/PCB_Project.~(5).PrjPcb.Zip
+PCB_Project/History/PCB2.~(1).PcbDoc.Zip
+PCB_Project/History/PCB2.~(2).PcbDoc.Zip
+PCB_Project/History/PCB2.~(3).PcbDoc.Zip
+PCB_Project/History/PCB2.~(4).PcbDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(1).PcbDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(1).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(2).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(3).PcbDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(3).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(4).PcbDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(4).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(5).PcbDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(5).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(6).PcbDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(6).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(7).PcbDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(7).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(8).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(9).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(13).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(14).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(15).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(16).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(17).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(18).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(19).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(20).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(21).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(22).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(23).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(24).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(25).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(26).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(27).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(28).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(29).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(30).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(31).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(32).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(33).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(34).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(35).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(36).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(37).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(38).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(39).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(40).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(41).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(42).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(43).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(44).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(45).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(46).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(47).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(48).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(49).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(50).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(51).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(52).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(53).SchDoc.Zip
+PCB_Project/History/n_ard/n_ard.~(54).SchDoc.Zip
+PCB_Project/History/n_ard/PCB1.~(1).PcbDoc.Zip
+PCB_Project/History/n_ard/PCB1.~(3).PcbDoc.Zip
+PCB_Project/History/n_ard/PCB1.~(4).PcbDoc.Zip
+PCB_Project/History/n_ard/PCB1.~(5).PcbDoc.Zip
+PCB_Project/History/n_ard/PCB1.~(6).PcbDoc.Zip
+PCB_Project/History/n_ard/PCB1.~(7).PcbDoc.Zip
+PCB_Project/History/n_ard/PCB1.~(8).PcbDoc.Zip
+PCB_Project/History/n_ard/PCB1.~(9).PcbDoc.Zip
+PCB_Project/History/n_ard/PCB1.~(10).PcbDoc.Zip
+PCB_Project/History/n_ard/PcbLib1.~(1).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(2).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(3).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(4).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(5).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(6).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(7).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(8).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(9).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(10).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(11).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(12).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(13).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(14).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(15).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(16).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(17).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(18).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(19).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(20).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(21).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(22).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(23).PcbLib.Zip
+PCB_Project/History/n_ard/PcbLib1.~(24).PcbLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(1).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(2).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(3).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(4).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(5).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(6).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(7).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(8).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(9).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(11).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(12).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(13).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(14).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(15).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(16).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(17).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(18).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(19).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(20).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(21).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(22).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(23).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(24).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(25).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(26).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(27).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(28).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(29).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(30).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(31).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(32).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(33).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(34).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(35).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(36).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(37).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(38).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(39).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(40).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(41).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(42).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(43).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(44).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(45).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(46).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(47).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(48).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(49).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(50).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(51).SchLib.Zip
+PCB_Project/History/n_ard/Schlib1.~(52).SchLib.Zip
+PCB_Project/Project Logs for PCB_Project/n_ard PCB ECO 19.08.2019 16-18-48.LOG
+PCB_Project/Project Logs for PCB_Project/n_ard PCB ECO 26.06.2019 23-26-13.LOG
+PCB_Project/Project Logs for PCB_Project/n_ard PCB ECO 26.06.2019 23-29-01.LOG
+PCB_Project/Project Logs for PCB_Project/PCB1 PCB ECO 26.06.2019 23-30-01.LOG
+PCB_Project/Project Logs for PCB_Project/PCB1 PCB ECO 26.06.2019 23-39-32.LOG
+PCB_Project/Project Logs for PCB_Project/PCB2 PCB ECO 19.08.2019 16-20-23.LOG
+PCB_Project/__Previews/PCB2.PcbDocPreview
+PCB_Project/n_ard/1N4001-1N4007_datasheet.pdf
+PCB_Project/n_ard/ArduinoSeverinoSchematic.png
+PCB_Project/n_ard/ATmega328p_datasheet.pdf
+PCB_Project/n_ard/L7800_series_datasheet.pdf
+PCB_Project/n_ard/n_ard.PcbDoc
+PCB_Project/n_ard/n_ard.SchDoc
+PCB_Project/n_ard/PCB1.PcbDoc
+PCB_Project/n_ard/PcbLib1.PcbLib
+PCB_Project/n_ard/Schlib1.SchLib
+PCB_Project/n_ard/terminal block-5mm.pdf
+PCB_Project/n_ard/__Previews/n_ard.PcbDocPreview
+PCB_Project/n_ard/__Previews/n_ard.SchDocPreview
+PCB_Project/n_ard/__Previews/PCB1.PcbDocPreview
+C_Primer_Plus/.vscode/launch.json
+C_Primer_Plus/.vscode/settings.json
+C_Primer_Plus/.vscode/tasks.json
