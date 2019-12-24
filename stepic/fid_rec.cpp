@@ -1,19 +1,30 @@
 #include <iostream>
 using namespace std;
-int n, n_old, i;
+unsigned long n, f1 = 0;
+int i = 0;
+unsigned long f2 = 1;
+unsigned long f_new = 0;
 
 void fib(){
-    cin >> n;
-    if (n != 0){
-      n_old = n + n_old;
-      fib();
+    if (n == 1){
+        cout << 1;
+    } else if (n == 2){
+        cout << 1;    
+    }else if (n != i){
+        //1 1 2 3 5 8
+        f_new = f1 + f2;
+        f1 = f2;
+        f2 = f_new; 
+        i++;
+        fib();
     } else {
-      cout << n_old;
+        cout << f_new;
     }
 }
 
 int main() 
 {
+  cin >> n;
   fib();
   return 0;
 }
