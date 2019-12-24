@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int n, n_old;
+
+void summa(n){
+    n += n_old; 
+    n_old = n;
+    return n;
+}
+
+int main() {
+  cin >> n;
+    if (n != 0){
+    summa(n);
+    }
+    cout << n_old;
+  return 0;
+}
