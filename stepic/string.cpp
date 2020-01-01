@@ -2,17 +2,19 @@
 
 #include <iostream>
 #include <string>
-
 using namespace std;
 
 int main() {
     string s;
+    int i;
     getline(cin, s);
-    
-    int first = s.find_first_of("?!.");
-    int second = s.find_first_of("?!.", first + 1);
-    cout << s.substr(first + 2, second - first - 2);
-    
+    for (auto c : s) {
+            if (c == ' ') {
+                i++;
+            }         
+    }
+    int space = i + 1;
+    cout << space;
     return 0; 
 }
 
