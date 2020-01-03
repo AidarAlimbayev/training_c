@@ -10,15 +10,13 @@ int main() {
     string next_word;
     string max_word;
     int i, n = 0;
-    cin >> next_word;
-    while(EOF){
+    
+    while(cin >> next_word){
         if (next_word > max_word){
             max_word = next_word;
-            cout << max_word << endl;
         }
-
+        //cin >> next_word;
     }
-    s = s + ' ';
-    
+    cout << max_word << endl;  
     return 0; 
 }
